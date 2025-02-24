@@ -466,12 +466,86 @@
 
 <p>Table 1</p>
 <p><strong>voltage regulator</strong></p>
-<p>|<strong>Options</strong>
-|-------------------------Pros------------------------Cons|
-|pic <br> NCV2575D2T-ADJ <br> Cost: 1.05 each <br> <a href="https://www.digikey.com/en/products/detail/rochester-electronics-llc/NCV2575D2T-ADJ/12131096">Link</a>| * converts 40V-4.75V <br>* low power standby <br> * High Efficiency | Increased shipping cost <br> low availability |
-|pic 
-|
-|</p>
+<table>
+<thead>
+<tr>
+<th>Options</th>
+<th>Pros</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pic <br> NCV2575D2T-ADJ <br> Cost: 1.05 <br> <a href="https://www.digikey.com/en/products/detail/rochester-electronics-llc/NCV2575D2T-ADJ/12131096">Link</a></td>
+<td>* converts 40V-4.75V <br>* low power standby <br> * High Efficiency <br> used before</td>
+<td>Increased shipping cost <br> low availability</td>
+</tr>
+<tr>
+<td>pic <br> LMR43610MSC3RPERQ1 <br> Cost 3.05 <br> <a href="https://www.digikey.com/en/products/detail/texas-instruments/LMR43610MSC3RPERQ1/17878345">Link</a></td>
+<td>High efficiency <br> ships immediately</td>
+<td>Higher cost <br> difficult mount</td>
+</tr>
+<tr>
+<td>pic <br> TPS562201DDCR <br> Cost $0.35 <br> <a href="https://www.digikey.com/en/products/detail/texas-instruments/TPS562201DDCR/5808210">Link</a></td>
+<td>Low Cost <br> overcurrent protection <br> allows variable output 0.76V to 7V</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pick</strong> Solution 1: the NCV2575D2T-ADJ is the surface mount version of the regulator we used in class its high efficiency and fixed output voltage are the main reasons to choose this option. the variable voltage input is also a nice feature.</p>
+<p>Table 2</p>
+<p><strong>Microcontroller</strong></p>
+<table>
+<thead>
+<tr>
+<th>Options</th>
+<th>Pros</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pic <br> PIC18F47Q10-I/PT <br> Cost $1.65 <br> <a href="https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf">Link</a></td>
+<td>Two USTART <br> I2C comunication <br></td>
+<td>Slow comunication <br> excess amount of pins</td>
+</tr>
+<tr>
+<td>Pic <br> PIC18F27Q10-I/PT <br> Cost $1.65 <br> <a href="https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf">Link</a></td>
+<td>Two USTART <br> I2C comunication <br> reasonable amount of pins</td>
+<td>Slow comunication</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pick</strong> Solution 2: Between the two pic devices i choose the 27 pin package due to not needing as many pins as the 40 pin package offers. Another reason for choosing this package is that it what we used in class and doesnt have wifi.</p>
+<p>Table 3</p>
+<p><strong>Sensor</strong></p>
+<table>
+<thead>
+<tr>
+<th>Options</th>
+<th>Pros</th>
+<th>Cons</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pic <br> SHT40-AD1B-R2 <br> Cost $1.80 <br> <a href="https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6223/SHT4x.pdf">Link</a></td>
+<td>Humidty and temperature sensor <br> supply voltage 1.08V to 3.6V <br> I2C communication <br> accurate up to .2 degrees C and 1.8% RH</td>
+<td>Difficult to solder <br> increased coding dificulty</td>
+</tr>
+<tr>
+<td>pic <br> HDC2080DMBR <br> Cost $2.22 <br> <a href="https://www.digikey.com/en/products/detail/texas-instruments/HDC2080DMBR/9692560">Link</a></td>
+<td>I2C comunitation <br> supply voltage 1.62V to 3.6V <br> accurate upto 2% RH</td>
+<td>only humidity <br> difficult to solder</td>
+</tr>
+<tr>
+<td>pic <br> MAX6682MUA+T <br> Cost $5.67 <br> <a href="https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX6682MUA-T/1521564">Link</a></td>
+<td>Easy to Solder <br> supply voltage 0.3V to 6V</td>
+<td>High Cost <br> only temperature</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pick</strong> Solution 1: the SHT40-AD1B-R2 offers both temperature and humidity sensing data allowing for a more interactive display. Those who interact with our display will have two sets of information to adjust instead of one.</p>
 
 
 
