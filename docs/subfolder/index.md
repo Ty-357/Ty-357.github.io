@@ -2,4 +2,4 @@
 title: This is the index to a subfolder
 ---
 
-Subfolder content
+![Schematic Design](Sheet1.pdf)
