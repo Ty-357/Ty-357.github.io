@@ -20,7 +20,7 @@ title: Welcome
 **Professor:** K. Nichols
 
 ### __Team Role__
-.
+My subsystem for this project is the sensor subsystem. We intend to mimic a weather station so we are interested in sensing any combination of temperature, humidity, pressure, or wind speed. Once the data has been read using a PIC microcontroler it will be transmitted to the HMI subsystem so that it can be displayed to the user. this communication will be sent through UART.
 
 ### __Links__
 Name | Link
@@ -34,3 +34,4 @@ Daniel Resnick | [link](https://drez85.github.io/)
 ### __My Assignments__
 Assignment | Link
 -----|------------
+Compontent Selection | [link](https://ty-357.github.io/second-page/)
