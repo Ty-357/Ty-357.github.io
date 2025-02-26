@@ -20,8 +20,8 @@ Table 2
 
 | Options | Pros | Cons |
 | ------------------------- | ------------------------ | ------------------------ |
-| P<img src="PIC40.jpg" width="150"> <br> PIC18F47Q10-I/PT <br> Cost $1.65 <br> [Link](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)| Two USTART <br> I2C comunication <br>  | Slow comunication <br> excess amount of pins
-| <img src=".png" width="150"> <br> PIC18F27Q10-I/PT <br> Cost $1.65 <br> [Link](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)| Two USTART <br> I2C comunication <br> reasonable amount of pins | Slow comunication
+| <img src="PIC40.jpg" width="150"> <br> PIC18F47Q10-I/PT <br> Cost $1.65 <br> [Link](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)| Two USTART <br> I2C comunication <br>  | Slow comunication <br> excess amount of pins
+| <img src="PIC.png" width="150"> <br> PIC18F27Q10-I/PT <br> Cost $1.65 <br> [Link](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC18F27-47Q10-Data-Sheet-40002043E.pdf)| Two USTART <br> I2C comunication <br> reasonable amount of pins | Slow comunication
 
 **Pick** Solution 2: Between the two pic devices i choose the 27 pin package due to not needing as many pins as the 40 pin package offers. Another reason for choosing this package is that it what we used in class and doesnt have wifi.
 
