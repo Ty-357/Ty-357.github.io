@@ -34,4 +34,4 @@ Daniel Resnick | [link](https://drez85.github.io/)
 ### __My Assignments__
 Assignment | Link
 -----|------------
-Compontent Selection | [link](https://ty-357.github.io/second-page/)
+Compontent Selection | [link](https://ty-357.github.io/docs/ComponentSelection.io/)
