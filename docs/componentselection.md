@@ -4,7 +4,7 @@ title: Component Selection
 
 Table 1
 
-**voltage regulator**
+### **voltage regulator**
 
 | Options | Pros | Cons |
 | ------------------------- | ------------------------ | ------------------------ |
@@ -16,7 +16,7 @@ Table 1
 
 Table 2
 
-**Microcontroller**
+### **Microcontroller**
 
 | Options | Pros | Cons |
 | ------------------------- | ------------------------ | ------------------------ |
@@ -27,7 +27,7 @@ Table 2
 
 Table 3
 
-**Sensor**
+### **Sensor**
 
 | Options | Pros | Cons |
 | ------------------------- | ------------------------ | ------------------------ |
