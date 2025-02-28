@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://embedded-systems-design.github.io/template_report/my-folder/componentselection/</loc>
+         <lastmod>2025-02-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://embedded-systems-design.github.io/template_report/my-folder/my-file/</loc>
          <lastmod>2025-02-28</lastmod>
          <changefreq>daily</changefreq>
