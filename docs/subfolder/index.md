@@ -1,5 +1,5 @@
 ---
-title: This is the index to a subfolder
+title: This is the subsystem design page
 ---
 ![Schematic](feb3.pdf)
 ![Schematic](Schem.png)
