@@ -30,6 +30,6 @@ title: PIC Table
 | I2C        | 2           | 1      | Pins 14 (SCL1), 15 (SDA1), 22 (SCL2), 23 (SDA2)                              |
 | PWM        | 3           | 0      | Pins 6, 7, 13                              |
 
-![](Pindiagram.png)
+![](Pindigram.png)
 ![](pin1.png)
 ![](pin2.png)
