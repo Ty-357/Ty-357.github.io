@@ -9,7 +9,7 @@ Table 1
 | Options | Pros | Cons |
 | ------------------------- | ------------------------ | ------------------------ |
 | <img src="docs/buck.jpg" width="150"> <br> NCV2575D2T-ADJ <br> Cost: 1.05 <br> [Link](https://www.digikey.com/en/products/detail/rochester-electronics-llc/NCV2575D2T-ADJ/12131096)| \* converts 40V-4.75V <br>\* low power standby <br> \* High Efficiency <br> used before| Increased shipping cost <br> low availability | 
-|<img src="docs/lmr.jpg" width="150"> <br> LMR43610MSC3RPERQ1 <br> Cost 3.05 <br> [Link](https://www.digikey.com/en/products/detail/texas-instruments/LMR43610MSC3RPERQ1/17878345) | High efficiency <br> ships immediately | Higher cost <br> difficult mount |
+|<img src="docs/lmr.JPG" width="150"> <br> LMR43610MSC3RPERQ1 <br> Cost 3.05 <br> [Link](https://www.digikey.com/en/products/detail/texas-instruments/LMR43610MSC3RPERQ1/17878345) | High efficiency <br> ships immediately | Higher cost <br> difficult mount |
 | <img src="docs/TPS.jpg" width="150"> <br> TPS562201DDCR <br> Cost $0.35 <br> [Link](https://www.digikey.com/en/products/detail/texas-instruments/TPS562201DDCR/5808210) | Low Cost <br> overcurrent protection <br> allows variable output 0.76V to 7V | 
 
 **Pick** Solution 1: the NCV2575D2T-ADJ is the surface mount version of the regulator we used in class its high efficiency and fixed output voltage are the main reasons to choose this option. the variable voltage input is also a nice feature.
