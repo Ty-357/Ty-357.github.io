@@ -5,22 +5,22 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">(Your Name) Datasheet</font><br>
+<font size= "6">Tyler Dean Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Team 313</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 313 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: 9, 09, 1996**
 </center>
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+* our team will be creating a electronic system to help aid in wildfire detection and prevention.
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
+* My part in this project will be determined in the future
 * Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
 
 
