@@ -1,7 +1,7 @@
 site_name: EGR 314 Tyler Dean Data Sheet
 site_url: https://ty-357.github.io/
 repo_url: https://github.com/Ty-357/Ty-357.github.io
-edit_uri: edit/main/docs/
+
 theme:
   name: material
   custom_dir: custom_theme/
