@@ -7,7 +7,7 @@ tags:
 <center>
 <font size= "6">Tyler Dean Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> project</font><br>
 for<br>
 <font size= "5"> Team 313 </font><br>
 
