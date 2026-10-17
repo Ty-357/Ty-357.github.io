@@ -2,15 +2,14 @@
 title: Module Schematic
 ---
 
-## Overview
-
-This schematic is design to support .... (highlight functionally, power, and controller).
 
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+## KiCad 10 Schematic
 
+![KiCad Schematic](Screenshot%202026-10-16%20174007.png)
 
-## Resouces
+### Project Files
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+[View Schematic PDF](SCHpdf.pdf)
+
+[Download KiCad Project ZIP](ConduitSearch.zip)
